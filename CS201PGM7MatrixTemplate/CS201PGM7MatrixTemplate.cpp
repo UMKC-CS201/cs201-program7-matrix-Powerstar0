@@ -28,4 +28,19 @@ int main()
     string hold;
     cin >> hold;
 }
+
+
+
+//[1 1 0]
+//[0 1 0]
+//[1 0 1]
+//For i = 0 to singe-1
+//  clear 1-d vector
+//  for j=0 to singe-1
+//      load 110
+//      push onto v<v<int>>
+
+//Reflexive all diagonal = 1
+//Symmetric [i][j] == [j][i]
+//transitive if
  
